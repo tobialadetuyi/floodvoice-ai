@@ -1,7 +1,7 @@
-FloodVoice
+# FloodVoice
 FloodVoice is an open-source early warning platform that combines satellite data and community observations with artificial intelligence to protect climate-vulnerable communities in Least Developed Countries and Small Island Developing States. Developed by Oluwatobi Jeremiah in Ogun State, Nigeria, FloodVoice uses an LSTM neural network to forecast ward-level flood risk from open NASA and Copernicus data, then generates automated voice alerts in local languages delivered through IVR calls and WhatsApp audio. Designed for offline operation, low power, and 2G networks, the system is published under Apache 2.0 to enable Red Cross chapters and civil protection agencies in The Gambia, Guinea-Bissau, and Cabo Verde to adapt and deploy it without proprietary barriers.
 
-Problem
+# Problem
 Increasing flash floods displace thousands yearly in low-lying LDCs and SIDS
 National alerts arrive in English, need mobile data, and reach communities too late
 2024 floods in Magboro-Akeran showed the gap for local-language, basic-phone warnings
