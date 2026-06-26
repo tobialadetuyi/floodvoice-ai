@@ -2,7 +2,9 @@
 
 FloodVoice is an open-source early-warning platform that combines satellite data and community observations with AI to protect climate-vulnerable communities in low‑resource settings.
 
-Badges: [build/status] [license] [latest-release] (add real badges later)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/tobialadetuyi/floodvoice-ai?label=Latest%20Release)](https://github.com/tobialadetuyi/floodvoice-ai/releases)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/tobialadetuyi/floodvoice-ai/ci.yml?branch=main&label=Build)](https://github.com/tobialadetuyi/floodvoice-ai/actions)
 
 ## Overview
 FloodVoice forecasts short-term flash floods (6–12 hours) using an LSTM model that fuses:
@@ -39,3 +41,4 @@ Clone the repo:
 ```bash
 git clone https://github.com/tobialadetuyi/floodvoice-ai.git
 cd floodvoice-ai
+```
